@@ -5,6 +5,7 @@
     height:40px;
     width:100%;
     position: fixed;
+    z-index:5;
     
 }
 .container{
@@ -97,6 +98,7 @@ input[type="submit"] {
 .flower img{
     width:200px;
     height:200px;
+    margin-left: 25px;
 }
 section#contentP{
     margin:0px 0px 0px 0px;
@@ -123,18 +125,18 @@ section#contentP{
     font-size:25px;
 }
 .R{
-    margin-left: 10px;
+    margin-left: 35px;
     margin-top:145px;
 }
 .A{
-   margin-left:230px;
+   margin-left:280px;
    margin-top:145px; 
 }
 .F{
     margin-top:365px;
-    margin-left:10px;
+    margin-left:35px;
 }
 .T{
     margin-top:365px;
-    margin-left: 230px;
+    margin-left:280px;
 }
