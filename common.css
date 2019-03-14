@@ -88,6 +88,9 @@ input#name, input#email{
     height:30px; 
     font-size:20px; 
 }
+#message{
+    padding: 19px 190px;
+}
 input[type="submit"] {
     background-color:green;
     width:90px;
